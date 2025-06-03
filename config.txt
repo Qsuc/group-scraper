@@ -4,10 +4,14 @@
 proxies = false
 
 # Discord webhook URL - replace with your actual webhook URL
-webhook = ""
+webhook = "https://discord.com/api/webhooks/1339296599985094760/OsnTa9spXidc-fmTKSz-CbMFg8yO12wZr1D5KOZX4RF8JL5KdcjpBI6x2dVxwy1hOLp2"
 
 # Number of threads to use (recommended: 1-5)
 threads = 1
 
 # Member hit threshold - groups with this many members or more will be flagged as hits (set to 0 to disable)
 member_hit_threshold = 0
+
+# Unlocked ID mode - when true, checks completely random group IDs (including new ones)
+# when false, only checks group IDs from before 2015
+unlocked_id = false
