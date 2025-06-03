@@ -4,7 +4,7 @@
 proxies = false
 
 # Discord webhook URL - replace with your actual webhook URL
-webhook = "https://discord.com/api/webhooks/1339296599985094760/OsnTa9spXidc-fmTKSz-CbMFg8yO12wZr1D5KOZX4RF8JL5KdcjpBI6x2dVxwy1hOLp2"
+webhook = ""
 
 # Number of threads to use (recommended: 1-5)
 threads = 1
