@@ -1,0 +1,13 @@
+
+# Roblox Group Scraper Configuration
+# Set proxies to true if you have a proxies.txt file with proxy list
+proxies = false
+
+# Discord webhook URL - replace with your actual webhook URL
+webhook = ""
+
+# Number of threads to use (recommended: 1-5)
+threads = 1
+
+# Member hit threshold - groups with this many members or more will be flagged as hits (set to 0 to disable)
+member_hit_threshold = 0
